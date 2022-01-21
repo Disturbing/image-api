@@ -15,7 +15,7 @@ flask-swagger-ui==3.18.0
 Flask-Testing==0.6.1
 idna==2.7
 inflection==0.3.1
-ipython==7.1.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi==0.13.1
